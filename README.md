@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**shashankgurunaga1/shashankgurunaga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <span style="font-family: 'Brush Script MT'; ">SHASHANK GURUNAGA</span>
+                
+    -Currently a freshman at UVCE,Bangalore.
+      
+    -I love to involve myself in projects involving full stack development to make a website or an app.
+    
+    -I am currently venturing into deep learning
+    
+    -I am an eager and avid learner and am curious to know and learn new technologies
+    
+ <span style="font-family: 'Snap ITC'; ">WANNA KNOW MORE ABOUT ME?!!</span>
 
-Here are some ideas to get you started:
+<span style="font-family: 'Snap ITC'; ">CHECK OUT!!!</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
