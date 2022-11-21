@@ -1,5 +1,5 @@
 
-<div align="center" font-size=10em> <b> SHASHANK GURUNAGA </b> </div>
+<div align="center" style="font-size:10em"> <b> SHASHANK GURUNAGA </b> </div>
                 
                 
                 
@@ -11,8 +11,8 @@
     
     -I am an eager and avid learner and am curious to know and learn new technologies
     
-<div align="center" font-size=8em> <b> WANNA KNOW MORE ABOUT ME?!! </b> </div>
+<div align="center" style="font-size:8em"> <b> WANNA KNOW MORE ABOUT ME?!! </b> </div>
 
-<div align="center" font-size=8em> <b> CHECK OUT!!! </b> </div>
+<div align="center" style="font-size:8em"> <b> CHECK OUT!!! </b> </div>
 
 
