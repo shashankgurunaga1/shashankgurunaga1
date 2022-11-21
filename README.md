@@ -1,5 +1,5 @@
 
- <span style="font-family: 'Brush Script MT'; ">SHASHANK GURUNAGA</span>
+<div align="center"> <b> SHASHANK GURUNAGA </b> </div>
                 
     -Currently a freshman at UVCE,Bangalore.
       
@@ -9,7 +9,7 @@
     
     -I am an eager and avid learner and am curious to know and learn new technologies
     
- <span style="font-family: 'Snap ITC'; ">WANNA KNOW MORE ABOUT ME?!!</span>
+<div align="center"> <b> WANNA KNOW MORE ABOUT ME?!! </b> </div>
+<div align="center"> <b> CHECK OUT!!! </b> </div>
 
-<span style="font-family: 'Snap ITC'; ">CHECK OUT!!!</span>
 
