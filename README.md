@@ -10,6 +10,8 @@
     -I am currently venturing into deep learning
     
     -I am an eager and avid learner and am curious to know and learn new technologies
+    
+    
     <p align="center">
     <img
         
