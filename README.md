@@ -16,8 +16,7 @@
 <h2 align="center" > <b> CHECK OUT!!! </b> </h2>
 
 <p align="center">
-  <img src=
-"![excited2](https://user-images.githubusercontent.com/98585901/203198183-164d2c7f-bb02-411d-b90e-65fbf76f4dff.gif)">
+  ![excited2](https://user-images.githubusercontent.com/98585901/203198183-164d2c7f-bb02-411d-b90e-65fbf76f4dff.gif)
   </p>
   
 
