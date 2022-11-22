@@ -1,7 +1,7 @@
 
 <h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>
                 
-<img src="![GitHub Views](https://komarev.com/ghpvc/?username=shashankgurunaga1&color=FAC151)"/>
+<img src="https://komarev.com/ghpvc/?username=shashankgurunaga1&color=FAC151" />
                 
     -Currently a freshman at UVCE,Bangalore.
       
