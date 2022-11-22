@@ -10,6 +10,13 @@
     -I am currently venturing into deep learning
     
     -I am an eager and avid learner and am curious to know and learn new technologies
+    <p align="center">
+    <img
+        
+        src="https://github-readme-stats.vercel.app/api?username=shashankgurunaga1&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    
+    </p>
     
 <h2 align="center" > <b> WANNA KNOW MORE ABOUT ME?!! </b> </h2>
 
