@@ -19,6 +19,8 @@
     />
     
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgurunaga1)](https://github.com/shashankgurunaga1/github-readme-stats)
     
 <h2 align="center" > <b> WANNA KNOW MORE ABOUT ME?!! </b> </h2>
 
