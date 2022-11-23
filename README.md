@@ -10,7 +10,12 @@
     -I am currently venturing into deep learning
     
     -I am an eager and avid learner and am curious to know and learn new technologies
-
+<h3 align="left"><b> Reach out through</b></h3>
+<p align ="left">
+  <a href="https://www.linkedin.com/in/shashank-gurunaga-822141239/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width=57 height=57 style="max-width: 100%;">
+    </a>
+  </p>
 
 <h3 align="left"><b> Known Programming Languages and Tools:</b></h3>
 <p align="left">
