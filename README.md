@@ -19,7 +19,7 @@
   </p>
 
 <h3 align="left"><b> Known Programming Languages and Tools:</b></h3>
-<p align="left">
+<p align="center">
 <a href="https://www.python.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=45 height=45 style="max-width: 100%;">
     </a>
