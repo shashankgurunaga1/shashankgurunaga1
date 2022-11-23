@@ -12,7 +12,7 @@
     -I am an eager and avid learner and am curious to know and learn new technologies
 
 
-<h3 align="left"><b> Known Programming Languages and Tools </b></h3>
+<h3 align="left"><b> Known Programming Languages and Tools:</b></h3>
 <p align="left">
 <a href="https://www.python.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=45 height=45 style="max-width: 100%;">
@@ -45,7 +45,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="React" width=45 height=45 style="max-width: 100%;">
     </a> 
    </p> 
-    
+   
+   
+   
 <p align="center">
     <img
         width="100%"
