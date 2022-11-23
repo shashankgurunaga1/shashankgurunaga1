@@ -12,10 +12,10 @@
     -I am an eager and avid learner and am curious to know and learn new technologies
 <h3 align="left"><b> Reach out through</b></h3>
 <p align ="center">
-  <a href="hhttps://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn" width=37 height=37 style="max-width: 100%;">
+  <a href="hhttps://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn" width=100 height=100 style="max-width: 100%;">
     </a>
   <a href="https://www.instagram.com/shashank_gurunaga/" rel="nofollow">
-  <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="Instagram" width=37 height=37 style="max-width: 100%;">
+  <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="Instagram" width=100 height=1oo style="max-width: 100%;">
     </a>
  
   </p>
