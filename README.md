@@ -20,6 +20,10 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="Flask" width=45 height=45 style="max-width: 100%;">
     </a>
+<a href="https://www.mysql.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=45 height=45 style="max-width: 100%;">
+    </a>
+  
 <a href="https://flutter.dev/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" alt="Flutter" width=45 height=45 style="max-width: 100%;">
     </a>
