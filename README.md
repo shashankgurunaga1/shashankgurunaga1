@@ -12,14 +12,13 @@
     -I am an eager and avid learner and am curious to know and learn new technologies
 
 
-# Known Programming Languages
+# Known Programming Languages and Tools
 
 <a href="https://www.python.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=45 height=45 style="max-width: 100%;">
     </a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" rel="nofollow">
-  <img src="https://user-images.githubusercontent.com/98585901/203460950-59e7b235-3fcf-4199-a451-f155ae78d855.png
-" alt="Flask" width=45 height=45 style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="Flask" width=45 height=45 style="max-width: 100%;">
     </a>
     
     
