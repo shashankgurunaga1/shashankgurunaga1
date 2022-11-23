@@ -38,7 +38,12 @@
  <a href="https://www.w3schools.com/css/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="CSS" width=45 height=45 style="max-width: 100%;">
     </a>
-    
+ <a href="https://www.w3schools.com/js/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width=45 height=45 style="max-width: 100%;">
+    </a> 
+ <a href="https://reactjs.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="React" width=45 height=45 style="max-width: 100%;">
+    </a> 
     
     
 <p align="center">
