@@ -29,7 +29,7 @@
  <a href="https://www.w3schools.com/c/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width=45 height=45 style="max-width: 100%;">
     </a>
- <a href="https://www.w3schools.com/c++/" rel="nofollow">
+ <a href="https://www.w3schools.com/cpp/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C++" width=45 height=45 style="max-width: 100%;">
     </a>
  <a href="https://www.w3schools.com/html/" rel="nofollow">
@@ -43,7 +43,9 @@
     </a> 
  <a href="https://reactjs.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" alt="React" width=45 height=45 style="max-width: 100%;">
-    </a> 
+    </a>
+  
+  
    </p> 
    
    
