@@ -13,10 +13,10 @@
 <h3 align="left"><b> Reach out through</b></h3>
 <p align ="center">
   <a href="https://www.linkedin.com/in/shashank-gurunaga-822141239/" rel="nofollow">
-  <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="LinkedIn" width=75 height=75 style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width=75 height=75 style="max-width: 100%;">
     </a>
   <a href="https://www.instagram.com/shashankgurunaga/" rel="nofollow">
-  <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="Instagram" width=75 height=75 style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width=75 height=75 style="max-width: 100%;">
     </a>
  
   </p>
