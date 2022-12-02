@@ -87,5 +87,5 @@
 
   
   <p align="center">
-  <img width="360" height="250" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif">
+  <img width="360" height="250" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
 </p>
