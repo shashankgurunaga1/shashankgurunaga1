@@ -9,6 +9,8 @@
     -I am currently venturing into deep learning
     
     -I am an eager and avid learner and am curious to know and learn new technologies
+    <img src="https://komarev.com/ghpvc/?username=your-github-shashankgurunaga1&color=green" ></img>
+    <br>
 <h3 align="left"><b> Reach out through</b></h3>
 <p align ="center">
   <a href="https://www.linkedin.com/in/shashank-gurunaga-822141239/" rel="nofollow">
