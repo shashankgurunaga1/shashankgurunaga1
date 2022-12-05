@@ -14,7 +14,7 @@
 <br>
 <h3 align="left"><b> Reach out through</b></h3>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [![Instagram](https://img.shields.io/badge/-shashankgurunaga-ff1493?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashankgurunaga/)
+![LinkedIn](https://img.shields.io/badge/-Shashank%20Gurunaga-blue?style=for-the-badge&logo=linkedin&logoColor=white) [![Instagram](https://img.shields.io/badge/-shashankgurunaga-ff1493?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashankgurunaga/)
 
 <h3 align="left"><b> Known Programming Languages and Tools:</b></h3>
 
