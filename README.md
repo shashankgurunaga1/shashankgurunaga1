@@ -13,8 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-shashankgurunaga1&color=green" ></img>
 <br>
 <h3 align="left"><b> Reach out through</b></h3>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 <h3 align="left"><b> Known Programming Languages and Tools:</b></h3>
 
