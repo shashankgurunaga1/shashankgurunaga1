@@ -49,5 +49,5 @@
 
   
   <p align="center">
-  <img width="360" height="250" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
+  <img width="360" height="250" src="https://user-images.githubusercontent.com/98585901/203198183-164d2c7f-bb02-411d-b90e-65fbf76f4dff.gif">
 </p>
