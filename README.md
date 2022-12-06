@@ -14,7 +14,7 @@
 <br>
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-gurunaga-822141239/) [![Instagram](https://img.shields.io/badge/-Instagram-ff1493?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashankgurunaga/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-gurunaga-822141239/) [![Instagram](https://img.shields.io/badge/-Instagram-ff1493?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashankg_001/)
 
 ## 💻 Tech Stack:
 
