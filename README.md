@@ -4,7 +4,7 @@
                 
     -Currently a freshman at UVCE,Bangalore.
       
-    -I love to involve myself in projects involving full stack development to make a website or an app.
+    -I love to involve myself in projects involving full stack web development 
     
     -I am currently venturing into deep learning
     
