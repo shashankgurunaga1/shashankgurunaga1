@@ -4,11 +4,15 @@
                 
     -Currently a freshman at UVCE,Bangalore.
       
-    -I love to involve myself in projects involving full stack web and app development 
+    -I love to involve myself in projects involving full stack web and app development
+    
+    -I am an enthusiast in competitive programming
     
     -I am currently venturing into deep learning
     
     -I am an eager and avid learner and am curious to know and learn new technologies
+    
+    
     
 <img src="https://komarev.com/ghpvc/?username=your-github-shashankgurunaga1&color=green" ></img>
 <br>
