@@ -18,10 +18,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-gurunaga-822141239/) [![Instagram](https://img.shields.io/badge/-Instagram-ff1493?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashankg_001/)
 
-<div align="center">
-<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height=435 width=435>
-</div>
-
 
 ## 💻 Tech Stack:
 
@@ -48,3 +44,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=shashankgurunaga1&the
 <h2 align="center" > <b> WANNA KNOW MORE ABOUT ME?!! </b> </h2>
 
 <h2 align="center" > <b> CHECK OUT!!! </b> </h2>
+
+<div align="center">
+<img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height=435 width=435>
+</div>
