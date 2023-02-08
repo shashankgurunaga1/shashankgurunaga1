@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/shashank-gurunaga-822141239/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width=35 height=35 style="max-width: 100%;">
     </a>
-  <a href="https://www.instagram.com/shashankgurunaga/" rel="nofollow">
+  <a href="https://www.instagram.com/shashankg_001/" rel="nofollow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width=35 height=35 style="max-width: 100%;">
     </a>
  
