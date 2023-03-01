@@ -36,6 +36,7 @@ src="https://github-readme-stats.vercel.app/api?username=shashankgurunaga1&count
      width=100%
 src="https://github-readme-streak-stats.herokuapp.com?user=shashankgurunaga1&theme=great-gatsby">
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgurunaga1&layout=compact&theme=great-gatsby)](https://github.com/shashankgurunaga1/github-readme-stats)
     
 <h2 align="center" > <b> WANNA KNOW MORE ABOUT ME?!! </b> </h2>
