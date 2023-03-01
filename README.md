@@ -3,7 +3,7 @@
                 
 ## 💫 About Me:
                 
-    -Currently a freshman at UVCE,Bangalore.
+    -Currently a sophomore at UVCE,Bangalore.
       
     -I love to involve myself in projects involving full stack web and app development and am also a competitive programmer
     
