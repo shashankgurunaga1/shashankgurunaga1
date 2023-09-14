@@ -8,6 +8,8 @@
     -I love to involve myself in projects involving full stack web and app development and am also a competitive programmer
     
     -I am currently venturing into deep learning
+
+    -Right now working on Angular projects 
     
     -I am an eager and avid learner and am curious to know and learn new technologies
     
