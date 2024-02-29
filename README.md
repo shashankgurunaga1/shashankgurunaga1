@@ -62,11 +62,10 @@
   <a href="https://www.djangoproject.com/" rel="nofollow">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width=45 height=45 style="max-width: 100%;">
     </a>
- <a href="https://www.djangoproject.com/" rel="nofollow">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width=45 height=45 style="max-width: 100%;">
-    </a>
+ 
 <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" width=45 height=45 style="max-width: 100%;">
 
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Angular" width=45 height=45 style="max-width: 100%;">
    </p>
   </p>
    <br>
