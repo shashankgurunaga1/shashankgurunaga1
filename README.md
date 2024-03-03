@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="Flask" width=45 height=45 style="max-width: 100%;">
     </a>
 
-     <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" width=45 height=45 style="max-width: 100%;">  
+      
 <a href="https://www.mysql.com/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=45 height=45 style="max-width: 100%;">
     </a>
