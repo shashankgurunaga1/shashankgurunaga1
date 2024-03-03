@@ -27,6 +27,7 @@
 <a href="https://www.python.org/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=45 height=45 style="max-width: 100%;">
     </a>
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width=45 height=45 style="max-width: 100%;">  
 <a href="https://flask.palletsprojects.com/en/2.2.x/" rel="nofollow">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" alt="Flask" width=45 height=45 style="max-width: 100%;">
     </a>
@@ -70,6 +71,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width=45 height=45 style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width=45 height=45 style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" width=45 height=45 style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width=45 height=45 style="max-width: 100%;">
 
   </p>
    <br>
