@@ -67,9 +67,10 @@
 
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Angular" width=45 height=45 style="max-width: 100%;">
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Angular" width=45 height=45 style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width=45 height=45 style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" width=45 height=45 style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="Tomcat" width=45 height=45 style="max-width: 100%;">
 
-
-   </p>
   </p>
    <br>
    <br>
