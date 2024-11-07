@@ -35,7 +35,7 @@ src="https://github-readme-stats.vercel.app/api?username=shashankgurunaga1&count
 src="https://github-readme-streak-stats.herokuapp.com?user=shashankgurunaga1&theme=great-gatsby">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgurunaga1&layout=compact&theme=great-gatsby)](https://github.com/shashankgurunaga1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgurunaga1&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
 ## 📈 Graph:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shashankgurunaga1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
