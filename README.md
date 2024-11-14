@@ -37,8 +37,5 @@ src="https://github-readme-streak-stats.herokuapp.com?user=shashankgurunaga1&the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankgurunaga1&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
-## 📈 Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shashankgurunaga1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    
-<h2 align="center" > <b> WANNA KNOW MORE ABOUT ME?!! </b> </h2>
-<h2 align="center" > <b> CHECK OUT!!! </b> </h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shashankgurunaga1&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
