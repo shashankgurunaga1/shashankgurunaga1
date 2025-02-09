@@ -1,46 +1,8 @@
 <h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>
                 
 ## 💫 About Me:
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-     <style>
-     #output {
-            font-family: Arial, sans-serif;
-            font-size: 24px;
-            white-space: nowrap;
-            overflow: hidden;
-            display: inline-block;
-            width: 100%; 
-            }
-     </style>
-     </head>
-<body>
-    <div id="output"></div>       
-   <script>
-        const outputDiv = document.getElementById('output');
-        const messages = [
-            "Hi I am Shashank Gurunaga",
-            "Second message...",
-            "Third message...",
-            "Final message..."
-        ];
-        
-        let index = 0;
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Shashank's+profile;Have+a+great+time+exploring)](https://git.io/typing-svg)
 
-        function updateText() {
-          
-            outputDiv.textContent = messages[index];
-
-            
-            index = (index + 1) % messages.length;
-        }
-
-        setInterval(updateText, 1000); 
-    </script>
-    </body>
-    </html>
     
 <img src="https://komarev.com/ghpvc/?username=your-github-shashankgurunaga1&color=green" ></img>
 <br>
