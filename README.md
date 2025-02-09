@@ -1,14 +1,39 @@
 <h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>
                 
 ## 💫 About Me:
-                
-    -Currently a junior at UVCE,Bangalore.
-      
-    -I love to involve myself in projects involving full stack web and app development and am also a competitive programmer
-    
-    -I am currently venturing into deep learning 
-    
-    -I am an eager and avid learner and am curious to know and learn new technologies
+     <style>
+     #output {
+            font-family: Arial, sans-serif;
+            font-size: 24px;
+            white-space: nowrap;
+            overflow: hidden;
+            display: inline-block;
+            width: 100%; 
+            }
+     </style>
+     
+    <div id="output"></div>       
+   <script>
+        const outputDiv = document.getElementById('output');
+        const messages = [
+            "Hi I am Shashank Gurunaga",
+            "Second message...",
+            "Third message...",
+            "Final message..."
+        ];
+        
+        let index = 0;
+
+        function updateText() {
+          
+            outputDiv.textContent = messages[index];
+
+            
+            index = (index + 1) % messages.length;
+        }
+
+        setInterval(updateText, 1000); 
+    </script>
     
     
     
