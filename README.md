@@ -1,6 +1,10 @@
 <h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>
                 
 ## 💫 About Me:
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
      <style>
      #output {
             font-family: Arial, sans-serif;
@@ -11,7 +15,8 @@
             width: 100%; 
             }
      </style>
-     
+     </head>
+<body>
     <div id="output"></div>       
    <script>
         const outputDiv = document.getElementById('output');
@@ -34,8 +39,8 @@
 
         setInterval(updateText, 1000); 
     </script>
-    
-    
+    </body>
+    </html>
     
 <img src="https://komarev.com/ghpvc/?username=your-github-shashankgurunaga1&color=green" ></img>
 <br>
