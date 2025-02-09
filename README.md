@@ -1,10 +1,10 @@
 <h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>
-                
-## 💫 About Me:
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Shashank's+profile;Have+a+great+time+exploring)](https://git.io/typing-svg)
-- Senior at UVCE,Bangalore(Bangalore University)
-- Currently working with DL(CNN)
-- Full Stack Web Dev
+## 💫 About Me:
+            - Senior at UVCE,Bangalore(Bangalore University)
+            - Currently working with DL(CNN)
+            - Full Stack Web Dev
 
 <img src="https://komarev.com/ghpvc/?username=your-github-shashankgurunaga1&color=green" ></img>
 <br>
