@@ -1,6 +1,6 @@
 <h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Shashank's+profile;Have+a+great+time+exploring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Shashank's+profile;Have+a+great+time+exploring)]
 ## 💫 About Me:
             - Senior at UVCE,Bangalore(Bangalore University)
             - Currently working with DL(CNN)
