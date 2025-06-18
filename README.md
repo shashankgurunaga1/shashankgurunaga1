@@ -1,4 +1,4 @@
-<h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>Add commentMore actions
+<h1 align="center" > <b> SHASHANK GURUNAGA </b> </h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Shashank's+profile;Have+a+great+time+exploring)
 ## 💫 About Me:
