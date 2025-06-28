@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on projects in Generative AI,Deep Learning
 - 🌱 I have worked on projects based on <b><i> Retrieval Augmented Generation,Image Detection using Convolutional Neural Networks(for Criminal Activity Detetction) and Springboot,.NET oriented applications</i></b>.
