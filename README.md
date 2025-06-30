@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @shashankgurunaga1
+- 👋 Hi, I’m <b>@shashankgurunaga1</b>
 - 🧑‍🎓 <b>Senior</b> at <b><i>UVCE,Bangalore</i></b>
 - 🔭 I’m currently working on projects with <b>Generative AI,Deep Learning</b>
 - 🌱 I have worked on projects based on <b><i> Retrieval Augmented Generation,Image Detection using Convolutional Neural Networks(for Criminal Activity Detetction) and Springboot,.NET,Flask oriented web-applications</i></b>.
